@@ -12,7 +12,7 @@ $result = mysqli_query($conn, $query);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>TODO app</title>
+    <title>todo app</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
